@@ -1,1 +1,8 @@
-alert('yo yo');
+#myCanvas {
+  background-color: blue;
+  height: 400px;
+  width: 400px;
+}
+p {
+  color: blue;
+}
